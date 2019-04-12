@@ -1,0 +1,11 @@
+cdn1.epicgames.com
+cdn2.epicgames.com
+cdn1.unrealengine.com
+cdn2.unrealengine.com
+cdn3.unrealengine.com
+static-assets-prod.epicgames.com
+epicgames-download1.akamaized.net
+download.epicgames.com
+download2.epicgames.com
+download3.epicgames.com
+download4.epicgames.com

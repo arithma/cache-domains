@@ -97,6 +97,12 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"],
 			"mixed_content": true
+		},
+		{
+			"name": "epic",
+			"description": "CDN for epic",
+			"domain_files": ["epic.txt"],
+			"mixed_content": true
 		}
 	]
 }
