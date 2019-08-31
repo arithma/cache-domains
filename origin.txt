@@ -2,5 +2,6 @@
 origin-a.akamaihd.net
 akamai.cdn.ea.com
 lvlt.cdn.ea.com
+ssl-lvlt.cdn.ea.com
 river.data.ea.com
 origin-a.akamaihd.net.edgesuite.net
